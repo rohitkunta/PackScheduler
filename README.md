@@ -1,10 +1,7 @@
 # PackScheduler
 
-• Developed a comprehensive stand-alone course registration system in Java, encompassing three distinct user roles
-and enabling streamlined class enrollment for students.
+Built a production-style course registration system with multi-role authentication (admin, faculty, student),
+streamlining scheduling and enrollment workflows.
 
-• Demonstrates expertise in software engineering best practices such as pair programming, test-driven development,
-code coverage, static analysis, version control, continuous integration, and extensive knowledge in finite state
-machines and recursive data structures, including stack, queue, array-based list, and linked list.
-• Skills: proficiency in object-oriented language features, software development life cycle phases, application of UML
-class diagrams and design patterns (e.g., model-view-controller and state pattern).
+Applied industry best practices—TDD, pair programming, CI/CD, and static analysis—achieving robust validation
+across data structures through unit & system testing
